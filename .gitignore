@@ -1,0 +1,32 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+.env
+myvenv/
+venv/
+
+# Database
+db.sqlite3
+
+# Static folder at project root
+/static/
+
+# macos
+._*
+.DS-Store
+.fseventsd
+.Spotlight-V100
+
+# Windows
+Thunbs.db*
+ehthumbs*.db
+[Db]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studion
+.vscode/
+.history/
+*.code-workspace
